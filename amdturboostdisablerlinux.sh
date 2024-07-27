@@ -1,5 +1,5 @@
 #!/bin/bash
-# craeted by isaachhk02
+# created by isaachhk02
 
 
 DisableAMDTurboBoost() {
