@@ -26,6 +26,7 @@ if [ $EUID -eq 0 ]; then
     echo "ERROR: No arguments"
   fi
   if [ "$1" == "--help" ]; then
+    echo "Created by isaachhk02"
     echo "amdturboostdisablerlinux.sh [option]"
     echo "--enable : Enable AMD Turbo Boost"
     echo "--disable : Disable AMD Turbo Boost"
