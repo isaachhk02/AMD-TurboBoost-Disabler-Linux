@@ -1,13 +1,13 @@
 # AMD Turbo Boost Disabler for Linux
 
 # How to use?
-`chmod +x amdturboboostdisablerlinux.sh`
+`chmod +x amdturboostdisablerlinux.sh`
 
 # Disable Turbo Boost
-`sudo ./amdturboboostdisablerlinux.sh --disable`
+`sudo ./amdturboostdisablerlinux.sh --disable`
 
 # Enable Turbo Boost
-`sudo ./amdturboboostdisablerlinux.sh --enable`
+`sudo ./amdturboostdisablerlinux.sh --enable`
 
 # Show help
-`sudo ./amdturboboostdisablerlinux.sh --help`
+`sudo ./amdturboostdisablerlinux.sh --help`
