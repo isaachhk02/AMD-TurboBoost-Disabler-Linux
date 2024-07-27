@@ -32,10 +32,10 @@ if [ $EUID -eq 0 ]; then
     echo "--disable : Disable AMD Turbo Boost"
   fi
   if [ "$1" == "--enable" ]; then
-    EnableAMDTurboBoost()
+    EnableAMDTurboBoost
   fi
   if [ "$1" == "--disable" ]; then
-    DisableAMDTurboBoost()
+    DisableAMDTurboBoost
   fi
 else
   echo "ERROR: Run this root!"
