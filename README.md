@@ -11,3 +11,9 @@
 
 # Show help
 `sudo ./amdturboostdisablerlinux.sh --help`
+
+
+When your Disable Turbo Boost can reduce performance this is because "disables" turbo frequencies.
+
+But can reduce CPU temperature
+
